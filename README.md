@@ -19,6 +19,7 @@ The following data was analyzed:
 
 - The greatest decrease in profits (date and amount) over the entire period.
 
+
   # PyPoll
 
   Create a Python script that analyzes the votes and calculates each of the following values:
@@ -32,5 +33,8 @@ The following data was analyzed:
 - The total number of votes each candidate won.
 
 - The winner of the election based on popular vote.
+
+![image](https://github.com/user-attachments/assets/7082e33e-76cc-4080-b5b4-0bc208d884c1)
+
 
 Readme edit

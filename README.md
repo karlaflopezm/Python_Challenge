@@ -34,7 +34,8 @@ The following data was analyzed:
 
 - The winner of the election based on popular vote.
 
-![image](https://github.com/user-attachments/assets/7082e33e-76cc-4080-b5b4-0bc208d884c1)
+![image](https://github.com/user-attachments/assets/716b57ba-bbd1-40c9-b7bb-8184825c5265)
+
 
 
 Readme edit
